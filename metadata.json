@@ -1,0 +1,6 @@
+{
+  "name": "Digital Tasbeeh",
+  "description": "A beautifully designed digital Tasbeeh clicker with targets, sound, vibration, and custom spiritual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
